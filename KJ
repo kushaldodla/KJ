@@ -1,0 +1,33 @@
+import pandas as pd
+D = { given table }
+DF = pd.DataFrame (D. index = ['AP' , 'OD' , 'M.P' , 'U.P'])
+DF ['Bags'] = [ given ]
+print ("after adding new column:")
+print (DF)
+print ("/n")
+S = pd.drop ('M.P')
+print ("After deleting m.p details:")
+print (S)
+
+
+
+
+import matplotlib.pyplot as plt
+week = ['week1' , 'week2' , 'week3' , 'week4' , 'week5'}
+ct = [given]
+wl = {given]
+plt.plot (week,ct,marker = 'd')
+plt.plot (week,wl,marker = 'x')
+plt.title ('weekly garment orders')
+plt.xlabel ('week')
+plt.ylabel ('orders')
+plt.show()
+
+
+
+
+
+create table emp (empno int(4), ename varchar(20), job varchar(20), salary int(4), doj date, department varchar(20));
+insert into emp values (1001, 'Scott', 'Manager', 90000, '2010-10-01', 'Accounts');
+insert into emp values write for all values..
+
